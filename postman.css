@@ -1,0 +1,65 @@
+/*RESET*/
+* {
+	font-family: Arial;
+	font-size:18px;
+}
+
+body {
+	background: rgb(249,220,84);
+}
+
+#postman {
+	width:600px;
+	margin:auto;
+	padding:15px;
+}
+
+#postman input, #postman label , #postman textarea {
+	display: block;
+	padding:5px;
+	margin:3px;
+	width:95%;
+	margin-bottom:10px;
+
+}
+#postman input,  #postman textarea {
+	border:1px solid #666;
+	border-radius: 6px;
+	-webkit-box-shadow: 0px 0px 5px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    0px 0px 5px rgba(50, 50, 50, 0.75);
+	box-shadow:         0px 0px 5px rgba(50, 50, 50, 0.75);
+}
+#postman .help {
+	margin-top: -10px;
+	font-size: 13px;
+	font-style: italic;
+	color:#666;
+	padding:5px;
+}
+#postman_mensaje {
+	height:200px;
+}
+#postman img {
+	width: 180px;
+	height:auto;
+	position:absolute;
+	margin-left:-220px;
+		-webkit-box-shadow: 0px 0px 5px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    0px 0px 5px rgba(50, 50, 50, 0.75);
+	box-shadow:         0px 0px 5px rgba(50, 50, 50, 0.75);
+	
+
+    -webkit-transform: rotate(352deg);
+    -moz-transform: rotate(352deg);
+    -o-transform: rotate(352deg);
+    writing-mode: lr-tb;
+
+
+ 	
+}
+#postman h1 {
+	font-size:32px;
+	text-transform:uppercase;
+}
+#msg .error {color:red;}
+#msg {color:green;}

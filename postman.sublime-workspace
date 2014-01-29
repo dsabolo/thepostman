@@ -1,0 +1,773 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inn",
+				"innerHeight  (variable)"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"inne",
+				"innerWidth  (variable)"
+			],
+			[
+				"curr",
+				"currentLeft"
+			],
+			[
+				"n",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-table"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"anch",
+				"anchoLinea"
+			],
+			[
+				"sc",
+				"scrollLeft  (function)"
+			],
+			[
+				"re",
+				"repeat-x  (value)"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"list-t",
+				"list-style"
+			],
+			[
+				"lis",
+				"list-style-image"
+			],
+			[
+				"s",
+				"sans-serif  (value)"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"page",
+				"page3"
+			],
+			[
+				"w",
+				"wrapper"
+			],
+			[
+				"func",
+				"function  (keyword)"
+			],
+			[
+				"dis",
+				"display:   (property)"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-table"
+			],
+			[
+				"time",
+				"timeout	setTimeout function"
+			],
+			[
+				"get",
+				"getTime"
+			],
+			[
+				"geo",
+				"geocoder"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"add",
+				"addClass  (function)"
+			],
+			[
+				"remo",
+				"removeClass  (function)"
+			],
+			[
+				"error",
+				"errorMsg"
+			],
+			[
+				"la",
+				"latitude"
+			],
+			[
+				"has",
+				"hasClass  (function)"
+			],
+			[
+				"FONT",
+				"font-weight"
+			],
+			[
+				"ac",
+				"actualizaGeoLoc"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"geoLo",
+				"geolocationErrorHandler"
+			],
+			[
+				"lo",
+				"longitude"
+			],
+			[
+				"for",
+				"formatted"
+			],
+			[
+				"ge",
+				"getDate  (function)"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"query",
+				"queryNext"
+			],
+			[
+				"db_fet",
+				"db2_fetch_array"
+			],
+			[
+				"db_f",
+				"dba_fetch"
+			],
+			[
+				"nid",
+				"nidBP"
+			],
+			[
+				"content-",
+				"content-inner"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"voc",
+				"vocesbabble"
+			],
+			[
+				"fom",
+				"form_id"
+			],
+			[
+				"data",
+				"datad1h1"
+			],
+			[
+				"gboo",
+				"gbookImage"
+			],
+			[
+				"gbo",
+				"gbookImage"
+			],
+			[
+				"info",
+				"infoBook"
+			],
+			[
+				"inf",
+				"infoJson"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"buildmode-no",
+				"buildmode-noticia2columnasconfoto"
+			],
+			[
+				"buil",
+				"buildmode-noticia2columnas"
+			],
+			[
+				"FE",
+				"FechaDeposito"
+			],
+			[
+				"views",
+				"views-field-title"
+			],
+			[
+				"tet",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git:sta",
+				"Git: Status"
+			],
+			[
+				"git: q",
+				"Git: Quick Commit"
+			],
+			[
+				"git: co",
+				"Git: Commit"
+			],
+			[
+				"git:p",
+				"Git: Push"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git:s",
+				"Git: Status"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Project: Close"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 167.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/diego/Sites/xdominguez/index.html",
+		"/Users/diego/Sites/xdominguez/wordpress/wp-content/themes/xavierdominguez/footer.php",
+		"/Users/diego/Sites/xdominguez/wordpress/wp-content/themes/xavierdominguez/index copia.php",
+		"/Users/diego/Sites/xdominguez/wordpress/wp-content/themes/xavierdominguez/index.php",
+		"/Users/diego/Sites/xdominguez/wordpress/wp-content/themes/twentyfourteen/page.php",
+		"/Users/diego/Sites/xdominguez/wordpress/wp-content/themes/xavierdominguez/index.html",
+		"/Users/diego/Sites/xdominguez/js/scrollh.js",
+		"/Users/diego/Sites/xdominguez/css/style.css",
+		"/Users/diego/Sites/xdominguez/wordpress/wp-content/themes/xavierdominguez/functions.php",
+		"/Users/diego/Sites/xdominguez/html/index.html",
+		"/Users/diego/Sites/xdominguez/images/decoLine1.png",
+		"/Users/diego/Sites/xdominguez/js/custom.js",
+		"/Users/diego/Sites/xdominguez/css/movingboxes.css",
+		"/Users/diego/Sites/xdominguez/js/movingboxes.js",
+		"/Users/diego/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/diego/Sites/xdominguez/js/easing.js",
+		"/Users/diego/Sites/xdominguez/README.md",
+		"/Users/diego/Sites/horizontalLayout/js/jquery.js",
+		"/Users/diego/Sites/horizontalLayout/js/custom.js",
+		"/Users/diego/Sites/horizontalLayout/js/scrollTo.js",
+		"/Users/diego/Sites/horizontalLayout/css/style2.css",
+		"/Users/diego/Sites/horizontalLayout/js/touschswipe.js",
+		"/Users/diego/Sites/horizontalLayout/css/style.css",
+		"/Users/diego/Sites/horizontalLayout/index2.html",
+		"/Users/diego/Sites/horizontalLayout/index.html",
+		"/Users/diego/Sites/horizontalLayout/js/jquery-min.js",
+		"/Users/diego/Sites/mobileCarDock/demo.html",
+		"/Users/diego/Sites/mobileCarDock/js/flow.js",
+		"/Users/diego/Sites/mobileCarDock/Drupal.sublime-projectcompletions",
+		"/Users/diego/Sites/mobileCarDock/js/weather.js",
+		"/Users/diego/Sites/mobileCarDock/js/gmaps.api.js",
+		"/private/var/folders/rf/vsbk99gj0dl9k_55psjmjkdw0000gn/T/fz3temp-1/node-archivo_historico.tpl.php",
+		"/Users/diego/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/Users/diego/Sites/disneybabble.com/trunk/src/sites/all/modules/custom/babble_utils/babble_utils.module",
+		"/Users/diego/Sites/disneybabble.com/trunk/src/sites/all/modules/contrib/pathauto/pathauto.inc",
+		"/Users/diego/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/diego/Sites/disneybabble.com/trunk/src/sites/all/modules/contrib/pathauto/pathauto.admin.inc",
+		"/Users/diego/Sites/disneybabble.com/trunk/src/sites/all/modules/custom/babble_userprofile/babble_userprofile.module",
+		"/Users/diego/Sites/disneybabble.com/trunk/src/sites/all/modules/custom/babble_calendar/babble_calendar.module",
+		"/Users/diego/Sites/disneybabble.com/trunk/src/sites/all/modules/custom/babble_calendar/plugins/content_types/calendar.inc",
+		"/Users/diego/Downloads/po.po",
+		"/Users/diego/Sites/disneybabble.com/untitled.sublime-project",
+		"/Users/diego/Sites/Conabip/tramiteEncuentro/actualizar.php",
+		"/private/var/folders/rf/vsbk99gj0dl9k_55psjmjkdw0000gn/T/fz3temp-1/lexinton.module",
+		"/Users/diego/Documents/g1.ods",
+		"/Users/diego/Documents/g1.csv",
+		"/Users/diego/Downloads/wck-custom-fields-and-custom-post-types-creator/wordpress-creation-kit-api/assets/js/tiny_mce/tiny_mce.js",
+		"/Users/diego/Desktop/screengems.sql",
+		"/Users/diego/Sites/lexintonDrupal7/ficha.xml",
+		"/private/var/folders/rf/vsbk99gj0dl9k_55psjmjkdw0000gn/T/fz3temp-1/override.css",
+		"/Users/diego/Sites/anel/data/anel_drupal.sql",
+		"/private/var/folders/rf/vsbk99gj0dl9k_55psjmjkdw0000gn/T/fz3temp-1/conabip_subsidios.module",
+		"/Users/diego/Sites/lexintonDrupal7/private/IE_Status.txt",
+		"/Users/diego/Sites/yogonet/backup.sh",
+		"/Users/diego/Sites/lexintonDrupal7/sites/all/themes/lexinton/templates/node--inmueble.tpl.php",
+		"/Users/diego/Sites/lexintonDrupal7/sites/all/modules/lexinton/lexinton.module",
+		"/private/var/folders/rf/vsbk99gj0dl9k_55psjmjkdw0000gn/T/fz3temp-1/page.tpl.php",
+		"/Volumes/diego/Sites/index.php",
+		"/private/var/folders/rf/vsbk99gj0dl9k_55psjmjkdw0000gn/T/fz3temp-1/conabip_mesBP.css",
+		"/Users/diego/Documents/demoFromModel.sql",
+		"/Users/diego/Sites/lexintonDrupal7/sites/default/settings.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/diego/Sites/disneybabble.com/trunk/src/sites",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"inn",
+			");\n",
+			"appadi",
+			"paddi",
+			"slider",
+			"goForward",
+			"chara",
+			"bootstrap",
+			"section",
+			"h1",
+			"Na",
+			"menuMore",
+			"nav",
+			"				\n",
+			"vh",
+			"vw",
+			"vh",
+			";\n",
+			"enterL",
+			"nav",
+			"enter",
+			"entrar",
+			"rgb",
+			"h1",
+			"steel",
+			"getPlace()",
+			" getPlace()",
+			"getPlace",
+			"ciudad",
+			"actualizaGeoLoc",
+			"loading",
+			"getPlace",
+			"anterior",
+			"ahPrev",
+			"ahNext",
+			"volver",
+			"block-block-59",
+			"mis favoritos",
+			"babble_utils_page_voces_babble",
+			";",
+			"$_REQUEST",
+			"\n",
+			",",
+			",\n",
+			"3646",
+			"views-field-field-model-name-value",
+			"conabip_libros_all",
+			"	*	",
+			"	Ω	",
+			"	*	",
+			"	Ω	",
+			"	*	",
+			"	Ω	",
+			"	*	",
+			"gbookImage",
+			"google",
+			"titulo_act",
+			"$isbn",
+			"$isbe",
+			"$jsGoogleBooks",
+			"previ",
+			"modif",
+			"if($isb",
+			"destacado",
+			"\n.",
+			"buildmode-des",
+			"http://local.screengems.com/",
+			"http://67.222.18.91/~euescree/",
+			"lexinton_variables_form",
+			"TopGoalScorers",
+			"topGoalsScorers",
+			"view-CapacitacionVirtua",
+			"MLA1466",
+			"MLA79242",
+			"MLA1466",
+			"MLA1475",
+			"MLA50547",
+			"MLA1472",
+			"cover",
+			"ISBN",
+			"linked",
+			"localhost",
+			"http://localhost/screengems/src",
+			"$isbn",
+			"ISBN",
+			"button",
+			"720",
+			"juan",
+			"articulo",
+			"demo",
+			"apto_profesional",
+			"f.sm_field_apto_profesional.facet.mincount",
+			"oficina",
+			"bario",
+			"sort",
+			"bannernext2",
+			"primary-menu",
+			"ul.menu",
+			"DDJJ",
+			" .webform-client-form ",
+			"fieldset",
+			"webform",
+			"390",
+			"video",
+			"view-id-videos",
+			"body",
+			"a",
+			"De",
+			"xls"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"charla",
+			",",
+			"$datos",
+			",",
+			"\n\n,",
+			"\n\n",
+			"\n",
+			",",
+			"|",
+			".",
+			"|",
+			".",
+			"|",
+			".",
+			"|",
+			"http://67.222.18.91/~euescree/",
+			"http://localhost/screengems/",
+			"MLA50538",
+			"MLA50545",
+			"MLA79242",
+			"MLA1475",
+			"MLA50547",
+			"http://67.222.18.91/~euescree",
+			"y",
+			"Entre"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 379.0
+	},
+	"output.git":
+	{
+		"height": 148.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index.p",
+				"wordpress/index.php"
+			],
+			[
+				"index",
+				"html/index.html"
+			],
+			[
+				"page",
+				"wordpress/wp-content/themes/twentyfourteen/page.php"
+			],
+			[
+				"custo",
+				"js/custom.js"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"cus",
+				"js/custom.js"
+			],
+			[
+				"styl",
+				"css/style.css"
+			],
+			[
+				"cust",
+				"js/custom.js"
+			],
+			[
+				"",
+				"Drupal.sublime-projectcompletions"
+			],
+			[
+				"pathauto.ad",
+				"sites/all/modules/contrib/pathauto/pathauto.admin.inc"
+			],
+			[
+				"babblecale",
+				"sites/all/modules/custom/babble_calendar/babble_calendar.module"
+			],
+			[
+				"calendar.inc",
+				"sites/all/modules/custom/babble_calendar/plugins/content_types/calendar.inc"
+			],
+			[
+				"babbleuti",
+				"sites/all/modules/custom/babble_utils/babble_utils.module"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/diego/Sites/horizontal_responsive_navigation/horizontalNav.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true
+}
