@@ -3,7 +3,7 @@ Simple Postman
 **************
 
 v.r1
-__________________________
+++++__________________________+++
 
 Envío de emails multiples sencillo en PHP.
 
